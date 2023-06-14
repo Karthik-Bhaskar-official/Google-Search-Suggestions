@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.suggestion-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #475569;
+}
+
+.arrow {
+  width: 20px;
+  height: 20px;
+}
+p {
+  font-size: 18px;
+  margin: 10px;
+}
